@@ -21,8 +21,27 @@ Hello! I'm a web developer that works professionally on the front-end and mainta
 </p>
 
 <details>
-  <summary>GitHub Stats ⚡️</summary>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=KnightedKestrel&layout=compact&langs_count=8&card_width=320" width="48%" align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=KnightedKestrel&show_icons=true&hide=stars&rank_icon=github" width="48%">
+    <summary>GitHub Stats ⚡️</summary>
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=KnightedKestrel&layout=compact&langs_count=8&card_width=320"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=KnightedKestrel&layout=compact&langs_count=8&card_width=320"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KnightedKestrel&layout=compact&langs_count=8&card_width=320" width="48%" align="right" />
+    </picture>
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=KnightedKestrel&show_icons=true&hide=stars&rank_icon=github"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=KnightedKestrel&show_icons=true&hide=stars&rank_icon=github"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=KnightedKestrel&show_icons=true&hide=stars&rank_icon=github" width="48%" align="right" />
+    </picture>
 </details>
-
