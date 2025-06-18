@@ -1,7 +1,7 @@
 <h3 align="center">Front-End Developer &amp; Full-Stack Hobbyist</h3>
 
 ## 👋 About
-Hello! I'm a web developer that works professionally on the front-end and maintains various full-stack projects as a hobby. I primarily code with [![](https://api.iconify.design/logos:javascript.svg?&height=14) JavaScript](https://nodejs.org/) in [![](https://api.iconify.design/logos:nodejs-icon.svg?&height=14) Node.js](https://nodejs.org/), where most of my projects are all kinds of bots and websites for personal interests. These also feature the use of [![](https://api.iconify.design/logos:react.svg?&height=14) React](https://reactjs.org/), [![](https://api.iconify.design/logos:vue.svg?&height=14) Vue](https://vuejs.org/), [![](https://api.iconify.design/logos:angular-icon.svg?&height=14) Angular](https://angular.io/), and more.
+Hello! I'm a web developer that works professionally on the front-end and maintains various full-stack projects as a hobby. I primarily code with Typescript in Node.js, where most of my projects are all kinds of bots and websites for personal interests. These also feature the use of React, Vue, Angular, and more.
 
 ## 🚀 Skills
 <p align="center">
@@ -16,7 +16,7 @@ Hello! I'm a web developer that works professionally on the front-end and mainta
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,aws" />
+        <img src="https://skillicons.dev/icons?i=py,mysql,postgres,docker,aws" />
     </a>
 </p>
 
