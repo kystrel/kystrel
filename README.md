@@ -21,5 +21,5 @@ Hello! I'm a web developer that works professionally on the front-end and mainta
 </p>
 
 ## ⚡️ GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KnightedKestrel&layout=compact&langs_count=8&theme=github_dark_dimmed" width="48%" align="right" />
-<img src="https://github-readme-stats.vercel.app/api?username=KnightedKestrel&show_icons=true&rank_icon=github&theme=github_dark_dimmed" width="48%" />
+<img src="https://github-readme-stats-xi-lake-49.vercel.app/api/top-langs?username=KnightedKestrel&layout=compact&langs_count=8&theme=github_dark_dimmed" width="38%" align="right" />
+<img src="https://github-readme-stats-xi-lake-49.vercel.app/api?username=KnightedKestrel&show_icons=true&rank_icon=github&theme=github_dark_dimmed" width="52%" />
