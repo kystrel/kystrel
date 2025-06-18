@@ -5,13 +5,19 @@ Hello! I'm a web developer that works professionally on the front-end and mainta
 
 ## 🚀 Skills
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass" />
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass" />
+    </a>
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nuxt,vue,react,angular,vite,vitest,nodejs,discordjs" />
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nuxt,vue,react,angular,vite,vitest,nodejs,discordjs" />
+    </a>
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,aws" />
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,aws" />
+    </a>
 </p>
 
 <details>
@@ -19,3 +25,4 @@ Hello! I'm a web developer that works professionally on the front-end and mainta
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=KnightedKestrel&layout=compact&langs_count=8&card_width=320" width="48%" align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=KnightedKestrel&show_icons=true&hide=stars&rank_icon=github" width="48%">
 </details>
+
