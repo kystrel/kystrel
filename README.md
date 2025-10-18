@@ -1,7 +1,7 @@
 <h3 align="center">Front-End Developer &amp; Full-Stack Hobbyist</h3>
 
 ## 👋 About
-Hello! I'm a web developer that works professionally on the front-end and maintains various full-stack projects as a hobby. I primarily code with Typescript in Node.js, where most of my projects are all kinds of bots and websites for personal interests. These also feature the use of React, Vue, Angular, and more.
+Hello! I'm a full-stack web developer that works on software professionally and maintain various projects for fun. I primarily code with Typescript, utilizing all sorts of front-end technologies like Vue, React, Angular, and more.
 
 ## 🚀 Skills
 <p align="center">
