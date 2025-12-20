@@ -16,7 +16,7 @@ Hello! I'm a full-stack web developer that works on software professionally and 
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,mysql,postgres,docker,aws" />
+        <img src="https://skillicons.dev/icons?i=py,mysql,postgres,docker,terraform,aws" />
     </a>
 </p>
 
