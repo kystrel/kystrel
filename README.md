@@ -1,24 +1,10 @@
-<h3 align="center">Full-Stack Professional and Dev Hobbyist</h3>
+## Guten Tag! 👋
 
-## 👋 About
-Hello! I'm a full-stack web developer that works on software professionally and maintain various projects for fun. I primarily code with Typescript, using front-end libs like Vue, React, and Angular.
+I'm a full-stack web developer that works on software professionally and maintain various projects for fun. I primarily code with Typescript, using front-end libs like Vue, React, and Angular.
 
-## 🚀 Skills
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass" />
-    </a>
-</p>
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nuxt,vue,react,angular,vite,vitest,nodejs,discordjs" />
-    </a>
-</p>
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,mysql,postgres,docker,terraform,aws" />
-    </a>
-</p>
+### Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,discordjs,react,angular,vue,vitest,mysql,postgres,terraform,docker,kubernetes,vim,linux)](https://skillicons.dev)
 
 <details>
     <summary>GitHub Stats ⚡️</summary>
