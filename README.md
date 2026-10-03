@@ -1,6 +1,9 @@
 ## Saluton! 👋🏻
 
-I'm a full-stack web developer that works on software professionally and maintain various projects for fun.
+I'm a full-stack web developer that works on software professionally and maintains these projects for fun.
+
+- [`emotestats.gg`](https://emotestats.gg) - discord emote analytics
+- [`powercord.gg`](https://powercord.gg) - powerlifting results in discord
 
 ### Languages and Tools:
 
