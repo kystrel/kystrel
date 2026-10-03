@@ -1,4 +1,4 @@
-## Guten Tag! 👋
+## Saluton! 👋🏻
 
 I'm a full-stack web developer that works on software professionally and maintain various projects for fun. I primarily code with Typescript, using front-end libs like Vue, React, and Angular.
 
